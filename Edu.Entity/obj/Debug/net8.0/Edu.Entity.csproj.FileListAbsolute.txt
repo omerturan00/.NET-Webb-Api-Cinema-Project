@@ -1,0 +1,14 @@
+C:\Users\omert\source\repos\Cinema\Edu.Entity\bin\Debug\net8.0\Edu.Entity.deps.json
+C:\Users\omert\source\repos\Cinema\Edu.Entity\bin\Debug\net8.0\Edu.Entity.runtimeconfig.json
+C:\Users\omert\source\repos\Cinema\Edu.Entity\bin\Debug\net8.0\Edu.Entity.dll
+C:\Users\omert\source\repos\Cinema\Edu.Entity\bin\Debug\net8.0\Edu.Entity.pdb
+C:\Users\omert\source\repos\Cinema\Edu.Entity\obj\Debug\net8.0\Edu.Entity.csproj.AssemblyReference.cache
+C:\Users\omert\source\repos\Cinema\Edu.Entity\obj\Debug\net8.0\Edu.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omert\source\repos\Cinema\Edu.Entity\obj\Debug\net8.0\Edu.Entity.AssemblyInfoInputs.cache
+C:\Users\omert\source\repos\Cinema\Edu.Entity\obj\Debug\net8.0\Edu.Entity.AssemblyInfo.cs
+C:\Users\omert\source\repos\Cinema\Edu.Entity\obj\Debug\net8.0\Edu.Entity.csproj.CoreCompileInputs.cache
+C:\Users\omert\source\repos\Cinema\Edu.Entity\obj\Debug\net8.0\Edu.Entity.dll
+C:\Users\omert\source\repos\Cinema\Edu.Entity\obj\Debug\net8.0\refint\Edu.Entity.dll
+C:\Users\omert\source\repos\Cinema\Edu.Entity\obj\Debug\net8.0\Edu.Entity.pdb
+C:\Users\omert\source\repos\Cinema\Edu.Entity\obj\Debug\net8.0\Edu.Entity.genruntimeconfig.cache
+C:\Users\omert\source\repos\Cinema\Edu.Entity\obj\Debug\net8.0\ref\Edu.Entity.dll

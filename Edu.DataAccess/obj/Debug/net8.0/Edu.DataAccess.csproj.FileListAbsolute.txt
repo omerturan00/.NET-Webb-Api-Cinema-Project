@@ -1,0 +1,17 @@
+C:\Users\omert\source\repos\Cinema\Edu.DataAccess\bin\Debug\net8.0\Edu.DataAccess.deps.json
+C:\Users\omert\source\repos\Cinema\Edu.DataAccess\bin\Debug\net8.0\Edu.DataAccess.runtimeconfig.json
+C:\Users\omert\source\repos\Cinema\Edu.DataAccess\bin\Debug\net8.0\Edu.DataAccess.dll
+C:\Users\omert\source\repos\Cinema\Edu.DataAccess\bin\Debug\net8.0\Edu.DataAccess.pdb
+C:\Users\omert\source\repos\Cinema\Edu.DataAccess\bin\Debug\net8.0\Edu.Entity.dll
+C:\Users\omert\source\repos\Cinema\Edu.DataAccess\bin\Debug\net8.0\Edu.Entity.pdb
+C:\Users\omert\source\repos\Cinema\Edu.DataAccess\obj\Debug\net8.0\Edu.DataAccess.csproj.AssemblyReference.cache
+C:\Users\omert\source\repos\Cinema\Edu.DataAccess\obj\Debug\net8.0\Edu.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omert\source\repos\Cinema\Edu.DataAccess\obj\Debug\net8.0\Edu.DataAccess.AssemblyInfoInputs.cache
+C:\Users\omert\source\repos\Cinema\Edu.DataAccess\obj\Debug\net8.0\Edu.DataAccess.AssemblyInfo.cs
+C:\Users\omert\source\repos\Cinema\Edu.DataAccess\obj\Debug\net8.0\Edu.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\omert\source\repos\Cinema\Edu.DataAccess\obj\Debug\net8.0\Edu.Data.A243D34A.Up2Date
+C:\Users\omert\source\repos\Cinema\Edu.DataAccess\obj\Debug\net8.0\Edu.DataAccess.dll
+C:\Users\omert\source\repos\Cinema\Edu.DataAccess\obj\Debug\net8.0\refint\Edu.DataAccess.dll
+C:\Users\omert\source\repos\Cinema\Edu.DataAccess\obj\Debug\net8.0\Edu.DataAccess.pdb
+C:\Users\omert\source\repos\Cinema\Edu.DataAccess\obj\Debug\net8.0\Edu.DataAccess.genruntimeconfig.cache
+C:\Users\omert\source\repos\Cinema\Edu.DataAccess\obj\Debug\net8.0\ref\Edu.DataAccess.dll

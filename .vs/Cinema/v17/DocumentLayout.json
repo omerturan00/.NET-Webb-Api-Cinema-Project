@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omert\\source\\repos\\Cinema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{551F81E0-15EA-42AA-BBBD-C1A42ECB8727}|Edu.API\\Edu.API.csproj|c:\\users\\omert\\source\\repos\\cinema\\edu.api\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551F81E0-15EA-42AA-BBBD-C1A42ECB8727}|Edu.API\\Edu.API.csproj|solutionrelative:edu.api\\controllers\\ticketcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551F81E0-15EA-42AA-BBBD-C1A42ECB8727}|Edu.API\\Edu.API.csproj|c:\\users\\omert\\source\\repos\\cinema\\edu.api\\controllers\\theatercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551F81E0-15EA-42AA-BBBD-C1A42ECB8727}|Edu.API\\Edu.API.csproj|solutionrelative:edu.api\\controllers\\theatercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551F81E0-15EA-42AA-BBBD-C1A42ECB8727}|Edu.API\\Edu.API.csproj|c:\\users\\omert\\source\\repos\\cinema\\edu.api\\controllers\\showtimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551F81E0-15EA-42AA-BBBD-C1A42ECB8727}|Edu.API\\Edu.API.csproj|solutionrelative:edu.api\\controllers\\showtimecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{551F81E0-15EA-42AA-BBBD-C1A42ECB8727}|Edu.API\\Edu.API.csproj|c:\\users\\omert\\source\\repos\\cinema\\edu.api\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{551F81E0-15EA-42AA-BBBD-C1A42ECB8727}|Edu.API\\Edu.API.csproj|solutionrelative:edu.api\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFD9ACA-EFAB-4732-BC33-CC04EFFA9232}|Edu.Business\\Edu.Business.csproj|c:\\users\\omert\\source\\repos\\cinema\\edu.business\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDFD9ACA-EFAB-4732-BC33-CC04EFFA9232}|Edu.Business\\Edu.Business.csproj|solutionrelative:edu.business\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33B985D4-FB09-42A9-AAF8-1D1B9DA6654A}|Edu.DataAccess\\Edu.DataAccess.csproj|c:\\users\\omert\\source\\repos\\cinema\\edu.dataaccess\\edu.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{33B985D4-FB09-42A9-AAF8-1D1B9DA6654A}|Edu.DataAccess\\Edu.DataAccess.csproj|solutionrelative:edu.dataaccess\\edu.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDFD9ACA-EFAB-4732-BC33-CC04EFFA9232}|Edu.Business\\Edu.Business.csproj|c:\\users\\omert\\source\\repos\\cinema\\edu.business\\edu.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CDFD9ACA-EFAB-4732-BC33-CC04EFFA9232}|Edu.Business\\Edu.Business.csproj|solutionrelative:edu.business\\edu.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketController.cs",
+              "DocumentMoniker": "C:\\Users\\omert\\source\\repos\\Cinema\\Edu.API\\Controllers\\TicketController.cs",
+              "RelativeDocumentMoniker": "Edu.API\\Controllers\\TicketController.cs",
+              "ToolTip": "C:\\Users\\omert\\source\\repos\\Cinema\\Edu.API\\Controllers\\TicketController.cs",
+              "RelativeToolTip": "Edu.API\\Controllers\\TicketController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:17:00.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TheaterController.cs",
+              "DocumentMoniker": "C:\\Users\\omert\\source\\repos\\Cinema\\Edu.API\\Controllers\\TheaterController.cs",
+              "RelativeDocumentMoniker": "Edu.API\\Controllers\\TheaterController.cs",
+              "ToolTip": "C:\\Users\\omert\\source\\repos\\Cinema\\Edu.API\\Controllers\\TheaterController.cs",
+              "RelativeToolTip": "Edu.API\\Controllers\\TheaterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:13:34.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\omert\\source\\repos\\Cinema\\Edu.API\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "Edu.API\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\omert\\source\\repos\\Cinema\\Edu.API\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Edu.API\\Controllers\\MovieController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:10:47.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowTimeController.cs",
+              "DocumentMoniker": "C:\\Users\\omert\\source\\repos\\Cinema\\Edu.API\\Controllers\\ShowTimeController.cs",
+              "RelativeDocumentMoniker": "Edu.API\\Controllers\\ShowTimeController.cs",
+              "ToolTip": "C:\\Users\\omert\\source\\repos\\Cinema\\Edu.API\\Controllers\\ShowTimeController.cs",
+              "RelativeToolTip": "Edu.API\\Controllers\\ShowTimeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAjwCQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:10:40.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edu.DataAccess",
+              "DocumentMoniker": "C:\\Users\\omert\\source\\repos\\Cinema\\Edu.DataAccess\\Edu.DataAccess.csproj",
+              "RelativeDocumentMoniker": "Edu.DataAccess\\Edu.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\omert\\source\\repos\\Cinema\\Edu.DataAccess\\Edu.DataAccess.csproj",
+              "RelativeToolTip": "Edu.DataAccess\\Edu.DataAccess.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-17T13:00:15.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "C:\\Users\\omert\\source\\repos\\Cinema\\Edu.Business\\Abstract\\IGenericService.cs",
+              "RelativeDocumentMoniker": "Edu.Business\\Abstract\\IGenericService.cs",
+              "ToolTip": "C:\\Users\\omert\\source\\repos\\Cinema\\Edu.Business\\Abstract\\IGenericService.cs",
+              "RelativeToolTip": "Edu.Business\\Abstract\\IGenericService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:59:32.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edu.Business",
+              "DocumentMoniker": "C:\\Users\\omert\\source\\repos\\Cinema\\Edu.Business\\Edu.Business.csproj",
+              "RelativeDocumentMoniker": "Edu.Business\\Edu.Business.csproj",
+              "ToolTip": "C:\\Users\\omert\\source\\repos\\Cinema\\Edu.Business\\Edu.Business.csproj",
+              "RelativeToolTip": "Edu.Business\\Edu.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-17T12:59:25.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

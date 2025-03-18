@@ -1,0 +1,17 @@
+C:\Users\omert\source\repos\Cinema\Edu.Business\bin\Debug\net8.0\Edu.Business.deps.json
+C:\Users\omert\source\repos\Cinema\Edu.Business\bin\Debug\net8.0\Edu.Business.dll
+C:\Users\omert\source\repos\Cinema\Edu.Business\bin\Debug\net8.0\Edu.Business.pdb
+C:\Users\omert\source\repos\Cinema\Edu.Business\obj\Debug\net8.0\Edu.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omert\source\repos\Cinema\Edu.Business\obj\Debug\net8.0\Edu.Business.AssemblyInfoInputs.cache
+C:\Users\omert\source\repos\Cinema\Edu.Business\obj\Debug\net8.0\Edu.Business.AssemblyInfo.cs
+C:\Users\omert\source\repos\Cinema\Edu.Business\obj\Debug\net8.0\Edu.Business.csproj.CoreCompileInputs.cache
+C:\Users\omert\source\repos\Cinema\Edu.Business\obj\Debug\net8.0\Edu.Business.dll
+C:\Users\omert\source\repos\Cinema\Edu.Business\obj\Debug\net8.0\refint\Edu.Business.dll
+C:\Users\omert\source\repos\Cinema\Edu.Business\obj\Debug\net8.0\Edu.Business.pdb
+C:\Users\omert\source\repos\Cinema\Edu.Business\obj\Debug\net8.0\ref\Edu.Business.dll
+C:\Users\omert\source\repos\Cinema\Edu.Business\bin\Debug\net8.0\Edu.DataAccess.dll
+C:\Users\omert\source\repos\Cinema\Edu.Business\bin\Debug\net8.0\Edu.Entity.dll
+C:\Users\omert\source\repos\Cinema\Edu.Business\bin\Debug\net8.0\Edu.DataAccess.pdb
+C:\Users\omert\source\repos\Cinema\Edu.Business\bin\Debug\net8.0\Edu.Entity.pdb
+C:\Users\omert\source\repos\Cinema\Edu.Business\obj\Debug\net8.0\Edu.Business.csproj.AssemblyReference.cache
+C:\Users\omert\source\repos\Cinema\Edu.Business\obj\Debug\net8.0\Edu.Busi.9CC3FE58.Up2Date

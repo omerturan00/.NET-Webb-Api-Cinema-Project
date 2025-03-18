@@ -1,0 +1,17 @@
+C:\Users\omert\source\repos\Cinema\Edu.DTO\bin\Debug\net8.0\Edu.DTO.deps.json
+C:\Users\omert\source\repos\Cinema\Edu.DTO\bin\Debug\net8.0\Edu.DTO.dll
+C:\Users\omert\source\repos\Cinema\Edu.DTO\bin\Debug\net8.0\Edu.DTO.pdb
+C:\Users\omert\source\repos\Cinema\Edu.DTO\obj\Debug\net8.0\Edu.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omert\source\repos\Cinema\Edu.DTO\obj\Debug\net8.0\Edu.DTO.AssemblyInfoInputs.cache
+C:\Users\omert\source\repos\Cinema\Edu.DTO\obj\Debug\net8.0\Edu.DTO.AssemblyInfo.cs
+C:\Users\omert\source\repos\Cinema\Edu.DTO\obj\Debug\net8.0\Edu.DTO.csproj.CoreCompileInputs.cache
+C:\Users\omert\source\repos\Cinema\Edu.DTO\obj\Debug\net8.0\Edu.DTO.dll
+C:\Users\omert\source\repos\Cinema\Edu.DTO\obj\Debug\net8.0\refint\Edu.DTO.dll
+C:\Users\omert\source\repos\Cinema\Edu.DTO\obj\Debug\net8.0\Edu.DTO.pdb
+C:\Users\omert\source\repos\Cinema\Edu.DTO\obj\Debug\net8.0\ref\Edu.DTO.dll
+C:\Users\omert\source\repos\Cinema\Edu.DTO\bin\Debug\net8.0\Edu.Entity.dll
+C:\Users\omert\source\repos\Cinema\Edu.DTO\bin\Debug\net8.0\Edu.Entity.pdb
+C:\Users\omert\source\repos\Cinema\Edu.DTO\obj\Debug\net8.0\Edu.DTO.csproj.AssemblyReference.cache
+C:\Users\omert\source\repos\Cinema\Edu.DTO\obj\Debug\net8.0\Edu.DTO.csproj.Up2Date
+C:\Users\omert\source\repos\Cinema\Edu.DTO\bin\Debug\net8.0\Edu.DataAccess.dll
+C:\Users\omert\source\repos\Cinema\Edu.DTO\bin\Debug\net8.0\Edu.DataAccess.pdb
