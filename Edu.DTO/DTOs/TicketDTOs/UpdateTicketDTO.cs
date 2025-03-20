@@ -11,9 +11,7 @@ namespace Edu.DTO.DTOs.TicketDTOs
     {
         public int Id { get; set; }
         public int CustomerId { get; set; }
-        public Customer Customers { get; set; }
         public int ShowTimeId { get; set; }
-        public ShowTime ShowTimes { get; set; }
         public string SeatNumber { get; set; }
         public decimal Price { get; set; }
         public int PaymentType { get; set; }

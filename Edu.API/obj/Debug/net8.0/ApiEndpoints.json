@@ -222,6 +222,80 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "Edu.API.Controllers.TheaterController",
+    "Method": "Get",
+    "RelativePath": "api/Theater",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Edu.API.Controllers.TheaterController",
+    "Method": "GetId",
+    "RelativePath": "api/Theater/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Edu.API.Controllers.TheaterController",
+    "Method": "Create",
+    "RelativePath": "api/Theater/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createTheaterDTO",
+        "Type": "Edu.DTO.DTOs.TheaterDTOs.CreateTheaterDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Edu.API.Controllers.TheaterController",
+    "Method": "Delete",
+    "RelativePath": "api/Theater/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Edu.API.Controllers.TheaterController",
+    "Method": "Update",
+    "RelativePath": "api/Theater/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateTheaterDTO",
+        "Type": "Edu.DTO.DTOs.TheaterDTOs.UpdateTheaterDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Edu.API.Controllers.TicketController",
     "Method": "Get",
     "RelativePath": "api/Ticket",
@@ -256,8 +330,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "createTheaterDTO",
-        "Type": "Edu.DTO.DTOs.TheaterDTOs.CreateTheaterDTO",
+        "Name": "createTicketDTO",
+        "Type": "Edu.DTO.DTOs.TicketDTOs.CreateTicketDTO",
         "IsRequired": true
       }
     ],
@@ -288,8 +362,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "updateTheaterDTO",
-        "Type": "Edu.DTO.DTOs.TheaterDTOs.UpdateTheaterDTO",
+        "Name": "updateTicketDTO",
+        "Type": "Edu.DTO.DTOs.TicketDTOs.UpdateTicketDTO",
         "IsRequired": true
       }
     ],

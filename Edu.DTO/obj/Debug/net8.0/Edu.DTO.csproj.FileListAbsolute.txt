@@ -15,3 +15,4 @@ C:\Users\omert\source\repos\Cinema\Edu.DTO\obj\Debug\net8.0\Edu.DTO.csproj.Assem
 C:\Users\omert\source\repos\Cinema\Edu.DTO\obj\Debug\net8.0\Edu.DTO.csproj.Up2Date
 C:\Users\omert\source\repos\Cinema\Edu.DTO\bin\Debug\net8.0\Edu.DataAccess.dll
 C:\Users\omert\source\repos\Cinema\Edu.DTO\bin\Debug\net8.0\Edu.DataAccess.pdb
+C:\Users\omert\source\repos\Cinema\Edu.DTO\obj\Debug\net8.0\Edu.DTO.sourcelink.json
